@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Lancar Baru1
+// @name         Lancar Baru3
 // @namespace    http://tampermonkey.net/
 // @version      3.00
 // @description  try to take over the world!
