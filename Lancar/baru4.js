@@ -18,23 +18,23 @@
 // ==/UserScript==
 
 var namagroup1 = 'GTO';
-var Comment1 = '(GUDANGTOTO) = (OKTOHASI4) 24*17*88';
+var Comment1 = '(GUDANGTOTO) = (NORTON45) 57*33*97';
 var namagroup2 = 'K86';
-var Comment2 = 'K86TOTO ( OKTAGON60 ) : 02*04*77';
+var Comment2 = 'K86TOTO ( NORMAND ) : 58*96*72';
 var namagroup3 = 'WARUNG';
-var Comment3 = '#(WARUNGTOTO) = (OKSIGEN100) 21*96';
+var Comment3 = '#(WARUNGTOTO) = (NEHRU66) 15*83*27';
 var namagroup4 = 'RIATOTO';
-var Comment4 = '#RIATOTO OKTOPUS45 = 84*85*36';
+var Comment4 = '#RIATOTO NEXTAR = 14*12*95';
 var namagroup5 = 'PEDRO';
-var Comment5 = '#PEDRO4D (OKBOSKU555*20*31*79)';
+var Comment5 = '#PEDRO4D (NAZIA22*11*41*45)';
 var namagroup6 = 'DIVA4D';
-var Comment6 = '#DIVA4D (OKBRASKAYU) = 34*05*93';
+var Comment6 = '#DIVA4D (NAMARA) = 62*99*40';
 var namagroup7 = 'TREX';
-var Comment7 = '#HATORIBET*OKBENGTANG*32*90*54';
+var Comment7 = '#HATORIBET*NABILA44*44*34*49';
 var namagroup8 = 'BLITAR';
-var Comment8 = '#BLITAR4D (OKTONGGEDI10) = 63*57';
+var Comment8 = '#BLITAR4D (NEVADA5) = 98*66';
 var namagroup9 = 'ASIA';
-var Comment9 = '#ASIATOTO = {OKRARIT369} = 65*89';
+var Comment9 = '#ASIATOTO = {NASOHA9} = 81*77';
 var namagroup10 = 'TESTER';
 var Comment10 = '';
 var namagroup11 = 'TESTER';
@@ -55,7 +55,7 @@ var Comment16 = '';
 
 
 var namagroup17 = 'Jawatengah';
-var Comment17 = 'Cuwil 1';
+var Comment17 = 'lANCAR 4';
 
 var namagroup18 = 'lajw';
 var Comment18 = 'asek';
